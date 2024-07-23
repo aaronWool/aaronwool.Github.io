@@ -13,7 +13,7 @@ I am a PHD student supervised by [Michael Greenspan](https://smithengineering.qu
 
 Research News:
 ===
-[RKHSPose] (https://aaronwool.github.io/publication/rkhspose) accepted as a poster to ECCV 2024.
+[RKHSPose](https://aaronwool.github.io/publication/rkhspose) accepted as a poster to ECCV 2024.
 
 [KeyGNet](https://aaronwool.github.io/publication/keygnet) accepted as a poster to WACV 2024.
 
