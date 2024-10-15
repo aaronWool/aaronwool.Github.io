@@ -57,4 +57,4 @@ TAs
   
 Service and leadership
 ======
-* Reviewer of ECCV, CVPR, and ICCV
+* Reviewer of AAAI, ECCV, CVPR, and ICCV
